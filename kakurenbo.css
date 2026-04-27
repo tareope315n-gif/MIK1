@@ -1,0 +1,21 @@
+.contents {
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    align-items: center;
+
+    width: 100%;
+    height: 100vh;
+}
+
+.contents-items1,
+.contents-items2 {
+    width: 500px;
+    height: 500px;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
